@@ -122,7 +122,7 @@ do
         Title = "Aimlock (Aimbot)",
         Description = "Locks to persons parts (Right Click) ('X' to toggle)",
         Callback = function(Aimlock)
-			loadstring(game:HttpGet("https://pastebin.com/raw/HJkip79f"))()
+			loadstring(game:HttpGet("https://pastebin.com/raw/hTW4SLHN"))()
         end
     })
 
@@ -400,7 +400,7 @@ SaveManager:BuildConfigSection(Tabs.Settings)
 Window:SelectTab(1)
 
 Fluent:Notify({
-    Title = "Fluent",
+    Title = "Moon Hub",
     Content = "The script has been loaded.",
     Duration = 8
 })
